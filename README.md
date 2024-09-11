@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karishma Gupta</h1>
 <h3 align="center">Full Stack web Developer (MERN Stack + Java Stack) from India</h3>
 
+- I’m currently workimg in **Airbaclabs Private Limited**
 
-- I’m previously working on **NJ India Invest Private Limited Finlogic Technologies**
+- I’m previously worked on **NJ India Invest Private Limited Finlogic Technologies**
   
-- **I’m currently Looking to contiribute to new projects**
+- **I’m currently Looking to enhance my skills and contiribute to new projects**
 
 - 👨‍💻 All of my projects are available at [https://karishmagupta05.github.io/](https://karishmagupta05.github.io/)
 
-- 💬 Ask me about **Java, MySQL ,Springboot, React, Redux-toolkit, Nodejs, Expressjs, MongoDB, Next js, Bootstrap, Material UI, Docker, Kubernetes, CI/CD, OpenAI **
+- 💬 Ask me about **Java, MySQL ,Springboot, Bootstrap, MERN **
 
 - 📫 How to reach me **karishmaguptaa@icloud.com**
 
